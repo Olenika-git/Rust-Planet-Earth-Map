@@ -8,7 +8,7 @@ File in this Repo are ZIP, download it and extract it.
 
 To add a custom Rust map:
 
-1. Grab that custom map and ensure that map is in a .map file.
+1. Grab that custom map
 
 2. Upload that .map file to Dropbox or another file sharing website.
 
