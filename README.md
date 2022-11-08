@@ -1,5 +1,5 @@
 # Rust-Planet-Earth-Map
-This is a Planet Earth map for Rust Game.
+This is a Planet Earth map, that I created for a game called : Rust.
 ![image](https://user-images.githubusercontent.com/1374898/188306691-d1462c42-b0d6-4e59-9e65-0a96d0d20909.png)
 ![image](https://user-images.githubusercontent.com/1374898/188306714-fc8ec0ea-71fb-4874-9995-3314c269d267.png)
 
